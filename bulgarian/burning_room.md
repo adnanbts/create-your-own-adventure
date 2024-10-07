@@ -26,3 +26,4 @@
 
 12. [Решаваш, че ти е писнало от тази примитивна планета. Нега си гори:](./Enterprise/Enterprise.md)
     [- Скоти, телепортирай ме на Ентърпрайз!](./Enterprise/Enterprise.md)
+13.[dqdo mraz e pederaZ](./varban/neshtop.md)
